@@ -1,0 +1,30 @@
+SIMPLE_TEST
+1
+
+STRINGS_TEST
+"ha", "ha", "i", "i", 
+"ha-ha", "i-i", 
+"ha", "ha i", "i", 
+
+MAYBE_TEST
+Just 1
+None
+
+VECTOR_TEST
+5 0.5 0.25 0.2 0.5 
+MIN: 0.2
+SUM: 6.45
+
+BST_TEST
+0:A
+-1:B  1:C 
+-3:F      5:D  
+          2:E 6:G   
+
+-3:F
+-1:B
+0:A
+1:C
+2:E
+5:D
+6:G
