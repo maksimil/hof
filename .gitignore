@@ -1,0 +1,6 @@
+.cache
+obj
+bin
+compile_commands.json
+Makefile
+*.make
